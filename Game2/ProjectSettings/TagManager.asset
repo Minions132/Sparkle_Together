@@ -1,0 +1,70 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Hazad
+  - FallTrap
+  - Protal
+  - ChaseTrigger
+  - PitTrap
+  - HorizonTrap
+  - Locked
+  - Door
+  - NPC
+  - TeleportTrigger
+  - SmoothTrigger
+  - Destroy
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - Ground
+  - Obstacle
+  - Player
+  - Enemy
+  - Interaction
+  - NPC
+  - Background
+  - Confiner
+  - TrapBLock
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: BackgroundVisuals
+    uniqueID: 1311008391
+    locked: 0
+  - name: Terrian
+    uniqueID: 3461030729
+    locked: 0
+  - name: Decoration
+    uniqueID: 2461980605
+    locked: 0
+  - name: NPC
+    uniqueID: 2349822373
+    locked: 0
+  - name: Characters
+    uniqueID: 672529021
+    locked: 0
